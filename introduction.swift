@@ -27,8 +27,6 @@ let result:Bool = false
 print(Int8.min)
 print(Int8.max)
 
-
-
 let highScore:Double = 100.232321212121
 print(highScore)
 
@@ -44,7 +42,13 @@ print(playerName)
 print(playerNameWithQuotes)
 print(playerNameWithUnicode)
 
-*/
-
 // Swift Optionals
 
+let someValue:Int? = 5
+print(someValue)
+print(someValue!)
+
+*/
+
+let someValue:Int! = 5
+print(someValue)
