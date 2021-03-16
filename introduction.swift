@@ -1,3 +1,7 @@
+/*
+
+//Variables and constants
+
 var Hello = "Hello World"
 print ("Hello World")
 
@@ -17,3 +21,30 @@ print(someFloat)
 print(someAnotherFloat)
 
 let result:Bool = false
+
+// Data Types
+
+print(Int8.min)
+print(Int8.max)
+
+
+
+let highScore:Double = 100.232321212121
+print(highScore)
+
+let playerName:Character = "J"
+let playerNameWithUnicode:Character = "\u{1F600}"
+print(playerName)
+print(playerNameWithUnicode)
+
+let playerName = "Jack"
+let playerNameWithQuotes = "\"Jack\""
+let playerNameWithUnicode = "\u{134}ack"
+print(playerName)
+print(playerNameWithQuotes)
+print(playerNameWithUnicode)
+
+*/
+
+// Swift Optionals
+
