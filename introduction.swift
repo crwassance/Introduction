@@ -50,5 +50,7 @@ print(someValue!)
 
 */
 
-let someValue:Int! = 5
+var someValue:Int?
+var someAnotherValue:Int!
 print(someValue)
+print(someAnotherValue)
